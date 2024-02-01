@@ -6,19 +6,15 @@ SQuAD 2.0, derived from Stanford's Question and Answering Dataset, presents a un
 The primary objective is to develop an advanced QA system using the BERT (Bidirectional Encoder Representations from Transformers) model. The methodology involves leveraging the pre-trained BERTForQuestionAnswering model and fine-tuning it on the SQuAD 2.0 dataset. Special attention is given to modifying the BERT architecture for the specific downstream task of question-answering. Various experiments are conducted to optimize model parameters for training.
 
 ## Project Highlights
-** BERT Utilization: ** The project harnesses the power of BERT, a state-of-the-art transformer-based model, for enhancing reading comprehension and question answering.
+**BERT Utilization:** The project harnesses the power of BERT, a state-of-the-art transformer-based model, for enhancing reading comprehension and question answering.
 
-### Fine-tuning: 
-The BERTForQuestionAnswering model is fine-tuned on the SQuAD 2.0 dataset to tailor it for the specific challenges posed by questions without answers.
+**Fine-tuning:** The BERTForQuestionAnswering model is fine-tuned on the SQuAD 2.0 dataset to tailor it for the specific challenges posed by questions without answers.
 
-### Architecture Modification: 
-The project explores modifications to the BERT architecture to enhance its performance in the targeted task of question-answering.
+**Architecture Modification:** The project explores modifications to the BERT architecture to enhance its performance in the targeted task of question-answering.
 
-### Parameter Optimization: 
-Rigorous experiments are conducted to fine-tune model parameters for optimal training and performance.
+**Parameter Optimization:** Rigorous experiments are conducted to fine-tune model parameters for optimal training and performance.
 
-### Evaluation and Analysis: 
-Comparative evaluation is performed between the fine-tuned model and a model built from scratch. The results are analyzed to gain insights into the effectiveness of the developed QA system.
+**Evaluation and Analysis:** Comparative evaluation is performed between the fine-tuned model and a model built from scratch. The results are analyzed to gain insights into the effectiveness of the developed QA system.
 
 ## Getting Started
 Clone the repository.
