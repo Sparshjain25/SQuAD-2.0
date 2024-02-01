@@ -6,8 +6,7 @@ SQuAD 2.0, derived from Stanford's Question and Answering Dataset, presents a un
 The primary objective is to develop an advanced QA system using the BERT (Bidirectional Encoder Representations from Transformers) model. The methodology involves leveraging the pre-trained BERTForQuestionAnswering model and fine-tuning it on the SQuAD 2.0 dataset. Special attention is given to modifying the BERT architecture for the specific downstream task of question-answering. Various experiments are conducted to optimize model parameters for training.
 
 ## Project Highlights
-### BERT Utilization: 
-The project harnesses the power of BERT, a state-of-the-art transformer-based model, for enhancing reading comprehension and question answering.
+** BERT Utilization: ** The project harnesses the power of BERT, a state-of-the-art transformer-based model, for enhancing reading comprehension and question answering.
 
 ### Fine-tuning: 
 The BERTForQuestionAnswering model is fine-tuned on the SQuAD 2.0 dataset to tailor it for the specific challenges posed by questions without answers.
