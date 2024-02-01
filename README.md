@@ -17,9 +17,9 @@ The primary objective is to develop an advanced QA system using the BERT (Bidire
 **Evaluation and Analysis:** Comparative evaluation is performed between the fine-tuned model and a model built from scratch. The results are analyzed to gain insights into the effectiveness of the developed QA system.
 
 ## Getting Started
-Clone the repository.
-Install the required dependencies.
-Run the provided scripts for training and evaluation.
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the provided scripts for training and evaluation.
 
 ## Results
 The QA system demonstrates proficiency in accurately identifying unanswered questions, as reflected in the achieved F1-score of 0.42 and an Exact Match of 0.36.
